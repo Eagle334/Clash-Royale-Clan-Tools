@@ -62,8 +62,7 @@ setup(
     # requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=['jinja2','configparser','requests'],
-    setup_requires=['pytest','pytest-runner','coverage','requests_mock'],
-    test_requires=['pytest','pytest-runner','coverage','requests_mock'],
+    tests_requires=['pytest','pytest-runner','coverage','requests_mock'],
 
     include_package_data=True,
 
