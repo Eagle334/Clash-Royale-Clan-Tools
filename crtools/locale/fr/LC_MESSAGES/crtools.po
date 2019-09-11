@@ -695,11 +695,11 @@ msgstr "Grand Champion"
 
 #: crtools/config.py:303
 msgid "**{} hours** left on {} day. Members have **not** completed all battles:"
-msgstr ""
+msgstr "*{} heures** restantes  sur {} day. Membres n'ayant **pas** complété toutes les batailles:"
 
 #: crtools/config.py:304
 msgid "Members who have quit the clan and are now blacklisted:"
-msgstr ""
+msgstr "Membres ayant quitté le clan et maintenant sur liste noire :"
 
 #: crtools/config.py:305
 #, fuzzy
